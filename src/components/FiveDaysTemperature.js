@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 import * as Constants from '../Constants'
-import PropTypes from 'prop-types'
 import EachDayTemperature from './EachDayTemperature';
 
 class FiveDaysTemperature extends Component{
